@@ -1,0 +1,11 @@
+# requirements.txt is simply a list of Python packages your backend needs to run.
+# github CI(continuous integration) workflow requires this file
+# add dependencies according to requirements
+# sample is written below
+
+
+# fastapi
+# uvicorn[standard]
+# pydantic
+# numpy
+# python-multipart
