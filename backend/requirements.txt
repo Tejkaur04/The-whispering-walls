@@ -4,8 +4,9 @@
 # sample is written below
 
 
-# fastapi
-# uvicorn[standard]
-# pydantic
-# numpy
-# python-multipart
+fastapi
+uvicorn[standard]
+pydantic
+numpy
+python-multipart
+pytest
